@@ -1,4 +1,4 @@
-# hoptodesk-com
+# HopToDesk
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,110 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-hoptodesk-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://hoptodesk.com/
+HopToDesk is a remote-access and device-management platform operated by Begonia Holdings LLC, a United States company. Since 2022 it has grown from an encrypted remote desktop tool into a platform spanning secure access, live monitoring, and fleet management for individuals, IT teams, MSPs, and enterprises across many countries.
+
+**Areas:** Remote Desktop · Device Management · Security · MSP · Enterprise
+
+## HopToDesk on APIs.io
+
+Everything profiled for HopToDesk is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hoptodesk-com/](https://apis.io/providers/hoptodesk-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [HopToDesk API](https://apis.io/apis/hoptodesk-com/hoptodesk-com-api/) — HopToDesk API as documented publicly: 2 operations. Contract generated from the documentation by API Evangelist (2026-11-11); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [HopToDesk API Rules](https://apis.io/rules/hoptodesk-com/hoptodesk-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [HopToDesk Domain Security](https://apis.io/security/hoptodesk-com/hoptodesk-com-domain-security/)
+- [HopToDesk Trust Center](https://apis.io/security/hoptodesk-com/hoptodesk-com-trust-center/)
+- [HopToDesk Vulnerability Disclosure](https://apis.io/security/hoptodesk-com/hoptodesk-com-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [HopToDesk Plans Pricing](https://apis.io/plans/hoptodesk-com/hoptodesk-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://hoptodesk.com/)
+- [Documentation](https://www.hoptodesk.com/docs)
+- [Getting started](https://www.hoptodesk.com/free-remote-desktop-software)
+- [Pricing](https://www.hoptodesk.com/pricing)
+- [Support](https://help.hoptodesk.com/)
+- [Changelog](https://www.hoptodesk.com/changelog)
+- [Security](https://www.hoptodesk.com/security)
+- [Compliance](https://www.hoptodesk.com/security)
+- [Terms of service](https://www.hoptodesk.com/terms)
+- [Privacy policy](https://www.hoptodesk.com/privacy)
+- [GitHub](https://github.com/hoptodesk)
+
+## API Evangelist rating
+
+**Kin Score 55.1** — strong · rubric 0.27.0 · scored 2026-11-11
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 33.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 32.6 |
+| Access clarity | 88.9 |
+
+**Agent readiness 42.1** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 35.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hoptodesk-com/](https://apis.io/providers/hoptodesk-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for HopToDesk: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/hoptodesk-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
